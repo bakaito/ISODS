@@ -1,6 +1,6 @@
 ## Files
 The repo includes the following:
-- **model.pckl** :XGboost model for classifying satisfactory and unsatisfactory chatbot-customer conversations
+- **xgb_model.pckl** :XGboost model for classifying satisfactory and unsatisfactory chatbot-customer conversations
 - **ISODS_train.ipynb**:Code for model training
 - **ISODS_test.ipynb**:Code to load the model and predict on test data
 - **vietnamese-stopwords.txt**: Text file containing list of Vietnamese stop words
