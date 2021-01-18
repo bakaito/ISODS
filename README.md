@@ -26,3 +26,6 @@ conda activate <env_name>
 ```
 
 Use the conda manager to install the packages (except pyvi, which is installed through pip)
+
+## Leaderboard
+Competition result: 2<sup>nd</sup>
